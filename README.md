@@ -17,4 +17,5 @@ This is a personal portfolio website that showcases my skills, projects, and exp
 - **Contact Form**: A simple contact form that allows users to reach out to me directly from the website.
 - **Social Media Links**: Provides easy access to my social media profiles, including LinkedIn and GitHub.
 
+  live preview: https://saniyashaikh-12.github.io/personal-portfolio/
 
